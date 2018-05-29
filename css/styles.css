@@ -1,0 +1,60 @@
+body {
+  font-size: 1.5em;
+}
+
+img {
+  height: auto;
+  width: 160px;
+}
+
+#walrus-showing {
+  display: none;
+}
+
+.fade-show {
+  display: none;
+}
+
+.slide-show {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.fade-clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.slide-clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.hover-underline:hover {
+  text-decoration: underline;
+}
+
+.cyan-background {
+  background-color: lightcyan;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
+}
+
+.back-color-cyan {
+  background-color: cyan;
+  color: white;
+}
