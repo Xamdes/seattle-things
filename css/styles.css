@@ -1,60 +1,28 @@
 body {
   font-size: 1.5em;
+  background-color: lightcyan;
+  color: black;
 }
 
 img {
-  height: auto;
-  width: 160px;
-}
-
-#walrus-showing {
-  display: none;
-}
-
-.fade-show {
-  display: none;
-}
-
-.slide-show {
-  display: none;
-}
-
-.clickable {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.fade-clickable {
-  cursor: pointer;
-  color: #0088cc;
-}
-
-.slide-clickable {
-  cursor: pointer;
-  color: #0088cc;
+  height: 130px;
+  width: 130px;
 }
 
 .hover-underline:hover {
   text-decoration: underline;
 }
 
-.cyan-background {
+.light-background {
   background-color: lightcyan;
+  color: black;
 }
 
-.green-background {
-  background-color: green;
-}
-
-.yellow-background {
-  background-color: yellow;
-}
-
-.red-background {
-  background-color: red;
-}
-
-.back-color-cyan {
-  background-color: cyan;
+.dark-background {
+  background-color: black;
   color: white;
+}
+
+.btn-cyan {
+  background-color: cyan;
 }
